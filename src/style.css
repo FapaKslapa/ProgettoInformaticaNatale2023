@@ -1,0 +1,109 @@
+body {
+    font-family: 'MADE TOMMY', sans-serif;
+    background-image: url("/src/Wallpaper.jpg");
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Paytone One', sans-serif;
+    font-size: 3.5em;
+    color: #38d8fa;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'MADE TOMMY', sans-serif;
+    color: #38d8fa;
+    font-size: 2em;
+    text-align: left;
+}
+
+canvas {
+    border: 2px solid white;
+}
+
+.divBox {
+    border: 2px solid white;
+    border-radius: 25px;
+    margin: auto;
+    padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+tr {
+    font-size: 20px;
+    font-family: 'MADE TOMMY', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+td {
+    font-size: 20px;
+    font-family: 'MADE TOMMY', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+.offcanvas {
+    font-family: 'MADE Tommy Soft', sans-serif;
+    font-size: 15px;
+    --bs-offcanvas-height: 60vh;
+}
+
+table tbody tr td {
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+.progress {
+    --progress-font-size: 15px;
+}
+
+.center {
+    text-align: center;
+}
+
+.font {
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'MADE TOMMY', sans-serif;
+    text-align: center;
+}
+
+.modal {
+    font-family: 'MADE Tommy Soft', sans-serif;
+    font-size: 15px;
+}
+
+.float {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: block;
+}
+
+.card {
+    background: rgba(33, 37, 41, 0.7);
+}
+
+.table-custom {
+    background-color: rgba(33, 37, 41, 0);
+
+}
+
+#table {
+    --background-color: rgba(33, 37, 41, 0);
+}
+
+hr {
+    display: block;
+    border-top: 1px solid #ffffff;
+    margin: 1em 0;
+}
